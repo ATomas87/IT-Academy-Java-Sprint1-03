@@ -1,0 +1,11 @@
+España,Madrid
+Francia,París
+Portugal,Lisboa
+Colombia,Bogotá
+Japón,Tokio
+Italia,Roma
+Afganistán,Kabul
+Alemania,Berlín
+Burkina Faso,Uagadugú
+Cabo Verde,Praia
+Jamaica,Kingston
