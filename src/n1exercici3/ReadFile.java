@@ -4,9 +4,9 @@ import java.io.*;
 import java.util.HashMap;
 
 public class ReadFile {
-    File file;
-    FileReader fileReader;
-    BufferedReader bufferedReader;
+    private File file;
+    private FileReader fileReader;
+    private BufferedReader bufferedReader;
 
 
     public ReadFile(String fileURI) {
