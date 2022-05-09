@@ -13,7 +13,6 @@ public class SaveFile {
             FileWriter file = new FileWriter(new File(System.getProperty("user.home"), "clasificació.txt"));
             file.write(player + "," + points);
             file.close();
-            System.out.println();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
